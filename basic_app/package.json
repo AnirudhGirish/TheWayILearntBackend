@@ -1,0 +1,23 @@
+{
+  "name": "basic_app",
+  "version": "1.0.0",
+  "description": "Will try to build a basic backend server and deploy",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "Backend",
+    "Express",
+    "Node",
+    "Server"
+  ],
+  "author": "AnirudhGirish",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

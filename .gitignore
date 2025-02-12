@@ -1,4 +1,3 @@
-Stream/
-fullstack_basic/
-basic_app/
-backend_stream/
+.git
+.DS_Store
+*/.DS_Store
